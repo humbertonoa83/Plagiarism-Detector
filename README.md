@@ -1,3 +1,9 @@
+## Sobre o Projecto
+<p>Detector de plágio.</p>
+<p>Insira um texto e ele indica a percentagem de plágio existente no texto e as possíveis fontes desse texto.</p>
+<b>Contacto do Programador: humbertonoa83@gmail.com</b>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
